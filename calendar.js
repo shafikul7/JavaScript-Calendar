@@ -197,7 +197,6 @@
       }
     }
 
-    // console.log(new DateObject(theDate));
     renderCalendar("calendarThis");
 
     function goToMonth(currentDate, direction) {
